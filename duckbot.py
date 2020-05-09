@@ -533,4 +533,4 @@ async def on_message(message):
         await message.channel.send("<@" + str(id) + ">, [벙어리 모드 가동.]")
 
 
-client.run("NjkwMzU4NjQzODgzMTE0NTQ2.XnQQ0A.TZZWRBtSYcOvN2uVNzDCtuDQdOg")
+client.run("NjkwMzU4NjQzODgzMTE0NTQ2.XrZL-Q.3JdPAJEha89j0gH8u2EQ49MuyoM")
